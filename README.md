@@ -1,4 +1,4 @@
-Fizzim2
+Fizzim2 (obsoleted ! New tool has been written [here](https://github.com/balanx/FsmLog/))
 ======
 
 A FSM (Finite State Machine) tools for Verilog HDL.
